@@ -31,7 +31,7 @@ Just run it by:
 
     python pomodoro_popup.py
 
-![img] (/img.png)
+![img](img.png)
 
 or
 
